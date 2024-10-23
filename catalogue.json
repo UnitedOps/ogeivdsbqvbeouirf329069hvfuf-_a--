@@ -11,21 +11,21 @@
         "description": "Dépassé par une nouvelle génération de coureurs auto emmenés par l'arrogant Jackson Storm, le légendaire Flash McQueen est soudain mis sur le bas-côté. Pour revenir dans la course, il aura besoin de la jeune technicienne Cruz Ramirez, de l'inspiration du fabuleux Hudson Hornet et de quelques rebondissements inattendus et tours du destin.",
         "image": "https://image.tmdb.org/t/p/w500/jJ8TnHvWHaVadW5JJjGYsM07j9i.jpg",
         "links": ["https://uqload.ws/kwe5suimspxa.html"],
-        "type": "film"
+        "type": "animation"
     },
     {
         "title": "Cars 2",
         "description": "La célèbre voiture de course Flash McQueen et l'incomparable dépanneuse Martin quittent Radiator Springs pour courir le tout premier Grand Prix mondial qui sacrera la voiture la plus rapide du monde. Mais la route est pleine d'imprévus, de déviations et de surprises, surtout lorsque Martin se retrouve entraîné dans une affaire d'espionnage international !",
         "image": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
         "links": ["https://uqload.ws/x4osr6ci1r8h.html"],
-        "type": "film"
+        "type": "animation"
     },
     {
         "title": "Cars",
         "description": "Un champion de course, Flash McQueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiator Springs, une petite ville oubliée sur la Route 66. Il y rencontre Sally, Martin, Doc Hudson et un tas de personnages amusants qui l’aident à découvrir que la vie vaut plus que les trophées et la célébrité.",
         "image": "https://image.tmdb.org/t/p/w500/abW5AzHDaIK1n9C36VdAeOwORRA.jpg",
         "links": ["https://uqload.ws/ehde9lw9ygnz.html"],
-        "type": "film"
+        "type": "animation"
     },
     {
         "title": "Outer Banks - Saison 1",
@@ -810,5 +810,19 @@
         "image": "https://image.tmdb.org/t/p/w500/nWQ3siQUXg2BzmJfpAzJBqecJO6.jpg",
         "links": ["https://uqload.net/6db9tliin71e.html", "https://uqload.net/m8zx1akdb8fj.html", "https://uqload.net/ycvew4s55wdc.html", "https://uqload.net/8mvic4m0ib0a.html", "https://uqload.net/lwmm7ad6pdgn.html", "https://uqload.net/fqwsr16z5075.html", "https://uqload.net/vlvgj5lofxm5.html", "https://uqload.net/jxp6nn69xtjf.html"],
         "type": "series"
+    },
+    {
+        "title": "Les SEGPA",
+        "description": "Les SEGPA se font virer de leur établissement. À leur grande surprise, ils intègrent le prestigieux collège Franklin D. Roosevelt. Le Principal, peu enclin à voir la réputation de son école se détériorer, imagine un stratagème pour virer les SEGPA tout en conservant les aides. Alors qu’ils savourent leur nouvelle vie, lient des amitiés et deviennent de plus en plus populaires, les SEGPA découvrent le projet du Principal. Ils décident alors de tout faire pour déjouer ses manigances...",
+        "image": "https://image.tmdb.org/t/p/w500/60EgLsQZTxBdRVjIRSh6bJZrSyu.jpg",
+        "links": ["https://uqload.net/31vq4j4rb3wd.html"],
+        "type": "film"
+    },
+    {
+        "title": "Les SEGPA au ski",
+        "description": "Les SEGPA se font virer de leur établissement. À leur grande surprise, ils intègrent le prestigieux collège Franklin D. Roosevelt. Le Principal, peu enclin à voir la réputation de son école se détériorer, imagine un stratagème pour virer les SEGPA tout en conservant les aides. Alors qu’ils savourent leur nouvelle vie, lient des amitiés et deviennent de plus en plus populaires, les SEGPA découvrent le projet du Principal. Ils décident alors de tout faire pour déjouer ses manigances...",
+        "image": "https://image.tmdb.org/t/p/w500/7VxOYI8SrQNGVLPVSaWx8eD2OaO.jpg",
+        "links": "https://uqload.net/embed-njxn6f0ivive.html",
+        "type": "film"
     }
 ]
