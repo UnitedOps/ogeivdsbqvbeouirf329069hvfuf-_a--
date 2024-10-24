@@ -14,7 +14,7 @@
       "https://uqload.ws/embed-c1tr8v9sakrh.html"
     ],
     "type": "series",
-    "genre": "science-fiction"
+    "genre": ["science-fiction", "fantastique", "mystere", "comedie"]
   },
   {
     "title": "Cars 3",
@@ -23,7 +23,9 @@
     "links": [
       "https://uqload.ws/embed-kwe5suimspxa.html"
     ],
-    "type": "animation"
+    "type": "film",
+    "genre": ["animation", "aventure", "comedie", "famille"]
+
   },
   {
     "title": "Cars 2",
@@ -32,7 +34,8 @@
     "links": [
       "https://uqload.ws/embed-x4osr6ci1r8h.html"
     ],
-    "type": "animation"
+    "type": "film",
+    "genre": ["animation", "aventure", "comedie", "famille"]
   },
   {
     "title": "Cars",
@@ -41,7 +44,8 @@
     "links": [
       "https://uqload.ws/embed-ehde9lw9ygnz.html"
     ],
-    "type": "animation"
+    "type": "film",
+    "genre": ["animation", "aventure", "comedie", "famille"]
   },
   {
     "title": "Outer Banks - Saison 1",
@@ -59,7 +63,8 @@
       "https://uqload.ws/embed-vc89y0wq499e.html",
       "https://uqload.ws/embed-diwm9aa7d2fp.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["action", "aventure", "drame", "mystere"]
   },
   {
     "title": "Outer Banks - Saison 2",
@@ -77,7 +82,8 @@
       "https://uqload.ws/embed-wdg43g51pnp6.html",
       "https://uqload.ws/embed-skz5g8whxap1.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["action", "aventure", "drame", "mystere"]
   },
   {
     "title": "Outer Banks - Saison 3",
@@ -95,7 +101,8 @@
       "https://uqload.ws/embed-j1vi4cqs2eqz.html",
       "https://uqload.ws/embed-mcdbw47wvwve.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["action", "aventure", "drame", "mystere"]
   },
   {
     "title": "Outer Banks - Saison 4",
@@ -108,7 +115,8 @@
       "https://uqload.ws/embed-djaaz8kjd1xj.html",
       "https://uqload.ws/embed-k49lrfzdw2v0.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["action", "aventure", "drame", "mystere"]
   },
   {
     "title": "Beetlejuice Beetlejuice",
@@ -117,7 +125,8 @@
     "links": [
       "https://uqload.ws/embed-q8rthsny9wea.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comedie", "fantastique", "horreur"]
   },
   {
     "title": "Terrifier",
@@ -126,7 +135,8 @@
     "links": [
       "https://uqload.ws/embed-uyb5siz0zp1k.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "thriller"]
   },
   {
     "title": "Terrifier 2",
@@ -135,7 +145,8 @@
     "links": [
       "https://uqload.ws/embed-dhoe9egcywjq.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "thriller"]
   },
   {
     "title": "Terrifier 3",
@@ -144,7 +155,8 @@
     "links": [
       "https://uqload.ws/embed-5ti3guosgg0c.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "thriller"]
   },
   {
     "title": "Hellboy: The Crooked Man",
@@ -153,7 +165,8 @@
     "links": [
       "https://uqload.ws/embed-gwlebf1vmxxi.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "action", "aventure"]
   },
   {
     "title": "Only the River Flows",
@@ -162,7 +175,8 @@
     "links": [
       "https://uqload.ws/embed-k0hmv39tdive.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "crime", "thriller"]
   },
   {
     "title": "The Silent Hour",
@@ -171,7 +185,8 @@
     "links": [
       "https://uqload.ws/embed-c4xdrs8c1ps6.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "crime", "thriller"]
   },
   {
     "title": "Mother Land",
@@ -180,7 +195,8 @@
     "links": [
       "https://uqload.ws/embed-kiaq8q67o324.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "drame"]
   },
   {
     "title": "Soulèvement",
@@ -189,7 +205,8 @@
     "links": [
       "https://uqload.ws/embed-o5ezud2zi38k.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "histoire", "drame"]
   },
   {
     "title": "Les Enfants Perdus",
@@ -198,7 +215,8 @@
     "links": [
       "https://uqload.ws/embed-nvckh43c1phv.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "drame", "thriller"]
   },
   {
     "title": "Camping du Lac",
@@ -207,7 +225,8 @@
     "links": [
       "https://uqload.ws/embed-m47eihaynymv.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame"]
   },
   {
     "title": "Échec et Mort",
@@ -216,7 +235,8 @@
     "links": [
       "https://uqload.ws/embed-z0hanbr5023w.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "drame"]
   },
   {
     "title": "Lonely Planet",
@@ -225,7 +245,8 @@
     "links": [
       "https://uqload.ws/embed-wg88ntmp2ebp.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "romance"]
   },
   {
     "title": "Mr. Crocket",
@@ -234,7 +255,8 @@
     "links": [
       "https://uqload.ws/embed-1th7fs5dx4kx.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur"]
   },
   {
     "title": "À sa place",
@@ -243,7 +265,8 @@
     "links": [
       "https://uqload.ws/embed-cxe6tmcfhuft.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "crime", "thriller"]
   },
   {
     "title": "The Invisibles",
@@ -252,7 +275,8 @@
     "links": [
       "https://uqload.ws/embed-gnvoiaki7uzq.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["fantastique", "drame"]
   },
   {
     "title": "Dominique",
@@ -261,7 +285,8 @@
     "links": [
       "https://uqload.ws/embed-lykvqkmm63ln.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "action"]
   },
   {
     "title": "Love Lies Bleeding",
@@ -270,7 +295,8 @@
     "links": [
       "https://uqload.ws/embed-vm61p71oeljv.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["crime", "romance", "thriller"]
   },
   {
     "title": "Le Médium",
@@ -279,7 +305,8 @@
     "links": [
       "https://uqload.ws/embed-raun52924gls.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comedie", "romance"]
   },
   {
     "title": "Wake Up",
@@ -288,7 +315,8 @@
     "links": [
       "https://uqload.ws/embed-vykg2jhzr5u3.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "horreur", "action"]
   },
   {
     "title": "The Wasp",
@@ -297,7 +325,8 @@
     "links": [
       "https://uqload.ws/embed-xl5pahm7ey0l.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "drame"]
   },
   {
     "title": "Femme",
@@ -306,7 +335,8 @@
     "links": [
       "https://uqload.ws/embed-rs3hgame6o65.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "thriller"]
   },
   {
     "title": "La Salle des Profs",
@@ -315,7 +345,8 @@
     "links": [
       "https://uqload.ws/embed-euy2y00y0371.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "drame"]
   },
   {
     "title": "Inès et Yvan, l’amour sur un fil",
@@ -324,7 +355,8 @@
     "links": [
       "https://uqload.ws/embed-pkl3f8ph2zbu.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["romance", "comédie", "telefilm"]
   },
   {
     "title": "À chacun ses peurs",
@@ -333,7 +365,8 @@
     "links": [
       "https://uqload.ws/embed-zfheyopafxhm.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["crime", "drame", "telefilm"]
   },
   {
     "title": "Les Frères Menendez",
@@ -342,7 +375,8 @@
     "links": [
       "https://uqload.ws/embed-mr5aw2nnf68l.html"
     ],
-    "type": "documentaire"
+    "type": "film",
+    "genre": ["documentaire", "crime"]
   },
   {
     "title": "Caddo Lake",
@@ -351,7 +385,8 @@
     "links": [
       "https://uqload.ws/embed-tqjgu67rc85y.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["mystere", "thriller"]
   },
   {
     "title": "Soi-même",
@@ -360,7 +395,8 @@
     "links": [
       "https://uqload.ws/embed-ku0asbmyrisj.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["animation", "fantastique", "familial"]
   },
   {
     "title": "The Front Room",
@@ -369,7 +405,8 @@
     "links": [
       "https://uqload.ws/embed-6yblmxw1b3d4.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur"]
   },
   {
     "title": "The Forge",
@@ -378,7 +415,8 @@
     "links": [
       "https://uqload.ws/embed-z9uz8vyp6xxa.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "famille"]
   },
   {
     "title": "Summer Camp",
@@ -387,7 +425,8 @@
     "links": [
       "https://uqload.ws/embed-jgau15ewruku.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comédie"]
   },
   {
     "title": "Maharaja",
@@ -396,7 +435,8 @@
     "links": [
       "https://uqload.ws/embed-jao943d19uol.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "thriller"]
   },
   {
     "title": "Azrael",
@@ -405,7 +445,8 @@
     "links": [
       "https://uqload.ws/embed-xztgvvr3lhgh.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "action", "thriller"]
   },
   {
     "title": "La Plateforme 2",
@@ -414,7 +455,8 @@
     "links": [
       "https://uqload.ws/embed-3zvs8s3tf6kj.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["science-fiction", "thriller", "drame"]
   },
   {
     "title": "Money Electric: The Bitcoin Mystery",
@@ -423,7 +465,8 @@
     "links": [
       "https://uqload.ws/embed-ht2fqf37pkxv.html"
     ],
-    "type": "documentaire"
+    "type": "film",
+    "genre": ["documentaire"]
   },
   {
     "title": "The Queen of My Dreams",
@@ -432,7 +475,8 @@
     "links": [
       "https://uqload.ws/embed-obyjbt0hrdeg.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "comedie"]
   },
   {
     "title": "Speak No Evil",
@@ -441,7 +485,8 @@
     "links": [
       "https://uqload.ws/embed-sfoyk8l4ylw1.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "thriller"]
   },
   {
     "title": "Hantée par mon mari",
@@ -450,7 +495,8 @@
     "links": [
       "https://uqload.ws/embed-4zji6tp8s7rp.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "thriller", "telefilm"]
   },
   {
     "title": "CTRL",
@@ -459,7 +505,8 @@
     "links": [
       "https://uqload.ws/embed-1fj9fj29p2bq.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "drame"]
   },
   {
     "title": "Amber Alert",
@@ -468,7 +515,8 @@
     "links": [
       "https://uqload.ws/embed-ktlyu6qgqxvk.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller"]
   },
   {
     "title": "The Radleys",
@@ -477,7 +525,8 @@
     "links": [
       "https://uqload.ws/embed-qnwn9jcuaxrd.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comedie", "horreur", "thriller"]
   },
   {
     "title": "Deadpool & Wolverine",
@@ -486,7 +535,8 @@
     "links": [
       "https://uqload.ws/embed-7rk7jrj5t95y.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "science-fiction", "comédie"]
   },
   {
     "title": "La Petite Vadrouille",
@@ -495,7 +545,8 @@
     "links": [
       "https://uqload.ws/embed-3vhqlc2oail4.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comédie"]
   },
   {
     "title": "Escape",
@@ -504,7 +555,8 @@
     "links": [
       "https://uqload.ws/embed-ba50mu34wo5b.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "drame"]
   },
   {
     "title": "Jack in the Box : Résurrection",
@@ -513,7 +565,8 @@
     "links": [
       "https://uqload.ws/embed-9rd8438pe2pd.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur"]
   },
   {
     "title": "Le Journal",
@@ -522,7 +575,8 @@
     "links": [
       "https://uqload.ws/embed-2qh66l3rlmoa.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller"]
   },
   {
     "title": "Jeu Intérieur",
@@ -531,7 +585,8 @@
     "links": [
       "https://uqload.ws/embed-z7inhh66prj9.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "comedie", "science-fiction"]
   },
   {
     "title": "Arthur's Whisky",
@@ -540,7 +595,8 @@
     "links": [
       "https://uqload.ws/embed-zhpvox7xapku.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comedie", "fantastique"]
   },
   {
     "title": "Joker: Folie à Deux",
@@ -549,7 +605,8 @@
     "links": [
       "https://uqload.ws/embed-zqwxs5n9ih0u.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "drame", "crime"]
   },
   {
     "title": "Spin the Bottle",
@@ -558,7 +615,8 @@
     "links": [
       "https://uqload.ws/embed-p5uurli5jthf.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur"]
   },
   {
     "title": "Little Bites",
@@ -567,7 +625,8 @@
     "links": [
       "https://uqload.ws/embed-6zo66md99itc.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur"]
   },
   {
     "title": "Mobile Suit Gundam Seed Freedom",
@@ -576,7 +635,8 @@
     "links": [
       "https://uqload.ws/embed-3nw5fnkuzhl6.html"
     ],
-    "type": "animation"
+    "type": "film",
+    "genre": ["action", "science-fiction", "animation", "drame"]
   },
   {
     "title": "God's Not Dead: In God We Trust",
@@ -585,7 +645,8 @@
     "links": [
       "https://uqload.ws/embed-3bifj2uk79yr.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame"]
   },
   {
     "title": "Muzzle",
@@ -594,7 +655,8 @@
     "links": [
       "https://uqload.ws/embed-ncqrgp9ka688.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "action", "crime", "drame"]
   },
   {
     "title": "L'homme au pénis sur le bras",
@@ -603,7 +665,8 @@
     "links": [
       "https://uqload.ws/embed-v2zp4cp8aqk3.html"
     ],
-    "type": "documentaire"
+    "type": "film",
+    "genre": ["documentaire"]
   },
   {
     "title": "Alien: Romulus",
@@ -612,7 +675,8 @@
     "links": [
       "https://uqload.ws/embed-8ebbdsnap3dk.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["science-fiction", "horreur", "action"]
   },
   {
     "title": "La Fille de l'assassin",
@@ -621,7 +685,8 @@
     "links": [
       "https://uqload.ws/embed-lewbfr4b1z2n.html"
     ],
-    "type": "telefilm"
+    "type": "telefilm",
+    "genre": ["telefilm", "thriller"]
   },
   {
     "title": "House of Spoils",
@@ -630,7 +695,8 @@
     "links": [
       "https://uqload.ws/embed-02vykaga9ath.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "horreur"]
   },
   {
     "title": "Hold Your Breath",
@@ -639,7 +705,8 @@
     "links": [
       "https://uqload.ws/embed-oplnz9844r7l.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "horreur", "drame"]
   },
   {
     "title": "Salem's Lot",
@@ -648,7 +715,8 @@
     "links": [
       "https://uqload.ws/embed-45ix49o3thqg.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur"]
   },
   {
     "title": "Trouble",
@@ -657,7 +725,8 @@
     "links": [
       "https://uqload.ws/embed-qossojys74at.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comedie", "action", "crime"]
   },
   {
     "title": "La Maison du mal",
@@ -666,7 +735,8 @@
     "links": [
       "https://uqload.ws/embed-zei9wq6twt26.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "telefilm"]
   },
   {
     "title": "Les vivants",
@@ -675,7 +745,8 @@
     "links": [
       "https://uqload.ws/embed-zj55dcbijiyd.html"
     ],
-    "type": "documentaire"
+    "type": "film",
+    "genre": ["documentaire", "drame"]
   },
   {
     "title": "Les Bodin's enquêtent en Corse",
@@ -684,7 +755,8 @@
     "links": [
       "https://uqload.ws/embed-txci45ogv0z6.html"
     ],
-    "type": "telefilm"
+    "type": "film",
+    "genre": ["comedie", "telefilm"]
   },
   {
     "title": "Les Bad Guys : Un bonbon ou un casse",
@@ -693,7 +765,8 @@
     "links": [
       "https://uqload.ws/embed-qqyyksulx4ad.html"
     ],
-    "type": "animation"
+    "type": "film",
+    "genre": ["animation", "comédie"]
   },
   {
     "title": "Séduire La Mort",
@@ -702,7 +775,8 @@
     "links": [
       "https://uqload.ws/embed-bl87oxkwwp91.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller", "horreur", "crime"]
   },
   {
     "title": "Fly",
@@ -711,7 +785,8 @@
     "links": [
       "https://uqload.ws/embed-ebhwhp8npi82.html"
     ],
-    "type": "documentaire"
+    "type": "film",
+    "genre": ["documentaire"]
   },
   {
     "title": "Salem",
@@ -720,7 +795,8 @@
     "links": [
       "https://uqload.ws/embed-mq1nasq8agtz.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "fantastique", "romance"]
   },
   {
     "title": "Traquée par un fantôme",
@@ -729,7 +805,8 @@
     "links": [
       "https://uqload.ws/embed-5jb67x0a9iuc.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["thriller"]
   },
   {
     "title": "Emmanuelle",
@@ -738,7 +815,8 @@
     "links": [
       "https://uqload.ws/embed-isb58wqrm38t.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "romance"]
   },
   {
     "title": "En Attendant la Nuit",
@@ -747,7 +825,8 @@
     "links": [
       "https://uqload.ws/embed-teo966kihhxb.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame"]
   },
   {
     "title": "Le Robot sauvage",
@@ -756,7 +835,8 @@
     "links": [
       "https://uqload.ws/embed-5h1tnicvxrde.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["animation", "famille", "science-fiction"]
   },
   {
     "title": "Un Amour de Chien",
@@ -765,7 +845,8 @@
     "links": [
       "https://uqload.ws/embed-6bufsjzts9tx.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comédie", "telefilm", "romance"]
   },
   {
     "title": "Des Blessures Invisibles",
@@ -774,7 +855,8 @@
     "links": [
       "https://uqload.ws/embed-j636c2loud9g.html"
     ],
-    "type": "telefilm"
+    "type": "film",
+    "genre": ["drame", "mystere", "telefilm"]
   },
   {
     "title": "Un Noël mortel",
@@ -783,7 +865,8 @@
     "links": [
       "https://uqload.ws/embed-1x5tb0eaf1rg.html"
     ],
-    "type": "telefilm"
+    "type": "telefilm",
+    "genre": ["mystere", "telefilm"]
   },
   {
     "title": "Heist 88",
@@ -792,7 +875,8 @@
     "links": [
       "https://uqload.ws/embed-d4kn6v8gkpko.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "L'Ombre Rebelle",
@@ -801,7 +885,8 @@
     "links": [
       "https://uqload.ws/embed-mmxyrwvgp6tg.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "crime", "thriller"]
   },
   {
     "title": "Le Comte de Monte-Cristo",
@@ -810,7 +895,8 @@
     "links": [
       "https://uqload.ws/embed-5hdr9471f9gp.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["aventure", "drame", "thriller", "histoire", "action", "romance"]
   },
   {
     "title": "Alien: Romulus",
@@ -819,7 +905,8 @@
     "links": [
       "https://uqload.ws/embed-izo5bih00tah.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["science-fiction", "action", "horreur"]
   },
   {
     "title": "La Gardav",
@@ -828,7 +915,8 @@
     "links": [
       "https://uqload.ws/embed-2vlwvowkj07d.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "comedie"]
   },
   {
     "title": "The Rookie : le flic de Los Angeles - Saison 1",
@@ -856,7 +944,8 @@
       "https://uqload.ws/embed-uvjetpor8f7j.html",
       "https://uqload.ws/embed-gt1wykjyqa19.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "The Rookie : le flic de Los Angeles - Saison 2",
@@ -884,7 +973,8 @@
       "https://uqload.ws/embed-it8hqsczhm0b.html",
       "https://uqload.ws/embed-4z6iem1m9u6x.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "The Rookie : le flic de Los Angeles - Saison 3",
@@ -906,7 +996,8 @@
       "https://uqload.ws/embed-xhbto8ewy4wl.html",
       "https://uqload.ws/embed-826j2mysi8r8.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "The Rookie : le flic de Los Angeles - Saison 4",
@@ -936,7 +1027,8 @@
       "https://uqload.ws/embed-lu903556zyd9.html",
       "https://uqload.ws/embed-mp6ipr05ks4w.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "The Rookie : le flic de Los Angeles - Saison 5",
@@ -966,7 +1058,8 @@
       "https://uqload.ws/embed-f1gt9po9i437.html",
       "https://uqload.ws/embed-jdmpabvs0da0.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "Taxi 1",
@@ -975,7 +1068,8 @@
     "links": [
       "https://uqload.ws/embed-pu1psfl6t39y.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "comedie", "policier", "crime", "aventure"]
   },
   {
     "title": "Taxi 2",
@@ -984,7 +1078,8 @@
     "links": [
       "https://uqload.ws/embed-bmfrqorwjvwh.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "comedie", "policier", "crime", "aventure"]
   },
   {
     "title": "Taxi 3",
@@ -993,7 +1088,8 @@
     "links": [
       "https://uqload.ws/embed-tzqtygt9es4a.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "comedie", "policier", "crime", "aventure"]
   },
   {
     "title": "Taxi 4",
@@ -1002,7 +1098,8 @@
     "links": [
       "https://uqload.ws/embed-1gkui3l6ovtm.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "comedie", "policier", "crime", "aventure"]
   },
   {
     "title": "Taxi 5",
@@ -1011,7 +1108,8 @@
     "links": [
       "https://uqload.ws/embed-8wqgwrzzjklj.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "comedie", "policier", "crime", "aventure"]
   },
   {
     "title": "Lake Placid: The Final Chapter",
@@ -1020,7 +1118,8 @@
     "links": [
       "https://uqload.ws/embed-yubxh1p1gr51.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "science-fiction"]
   },
   {
     "title": "Lake Placid",
@@ -1029,7 +1128,8 @@
     "links": [
       "https://uqload.ws/embed-tx2nmhwwqsmz.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "science-fiction"]
   },
   {
     "title": "Lake Placid vs. Anaconda",
@@ -1038,7 +1138,8 @@
     "links": [
       "https://uqload.ws/embed-42vzrpneu123.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "science-fiction"]
   },
   {
     "title": "Lake Placid: Legacy",
@@ -1047,7 +1148,8 @@
     "links": [
       "https://uqload.ws/embed-q2gl48hijii8.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["horreur", "science-fiction"]
   },
   {
     "title": "Alien, le huitième passager (version longue)",
@@ -1056,7 +1158,8 @@
     "links": [
       "https://uqload.net/embed-mky2uiyn7skk.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["science-fiction", "horreur"]
   },
   {
     "title": "Les Chroniques de Spiderwick",
@@ -1065,7 +1168,8 @@
     "links": [
       "https://uqload.net/embed-86b50wd5mskd.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["famille", "aventure", "fantastique"]
   },
   {
     "title": "Les Chroniques de Spiderwick - Saison 1",
@@ -1081,7 +1185,8 @@
       "https://uqload.ws/embed-ir5eo15c3848.html",
       "https://uqload.ws/embed-cpuyeqggr01b.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["famille", "aventure", "action"]
   },
   {
     "title": "Le Secret de Terabithia",
@@ -1090,7 +1195,8 @@
     "links": [
       "https://uqload.net/embed-bet32s57wfet.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["drame", "aventure", "famille"]
   },
   {
     "title": "Aliens le retour (Version longue)",
@@ -1099,7 +1205,8 @@
     "links": [
       "https://uqload.net/embed-mv5u3lngd65o.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "thriller", "science-fiction"]
   },
   {
     "title": "Alien, la résurrection",
@@ -1108,7 +1215,8 @@
     "links": [
       "https://uqload.net/embed-k6f33e8bhe2z.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["action", "horreur", "science-fiction"]
   },
   {
     "title": "Alien: Covenant",
@@ -1117,7 +1225,8 @@
     "links": [
       "https://uqload.net/embed-i3ipde6ify12.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["mystere", "horreur", "science-fiction"]
   },
   {
     "title": "Loups Garous - Saison 1",
@@ -1129,7 +1238,8 @@
       "https://uqload.net/embed-6zduspl25ubz.html",
       "https://uqload.net/embed-k3ia2j2ie9pc.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["realiter"]
   },
   {
     "title": "Zorro",
@@ -1138,7 +1248,8 @@
     "links": [
       "https://uqload.net/embed-hp2enamivrir.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["aventure", "action", "drame", "comedie", "western", "crime"]
   },
   {
     "title": "La Grande Zorro",
@@ -1147,7 +1258,8 @@
     "links": [
       "https://uqload.net/embed-3zob75xcv4x6.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["aventure", "action", "drame", "comedie", "western", "crime"]
   },
   {
     "title": "Le Masque de Zorro",
@@ -1156,7 +1268,8 @@
     "links": [
       "https://uqload.net/embed-3pcsahzb5wpc.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["aventure", "action", "drame", "comedie", "western", "crime"]
   },
   {
     "title": "La Légende de Zorro",
@@ -1165,7 +1278,8 @@
     "links": [
       "https://uqload.net/embed-kipv1n8jm6bv.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["aventure", "action", "drame", "comedie", "western", "crime"]
   },
   {
     "title": "Zorro - Saison 1",
@@ -1183,7 +1297,8 @@
       "https://uqload.net/embed-pju9rz3qkrwc.html",
       "https://uqload.net/embed-dt5ccy1uo2bj.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["aventure", "action", "drame", "comedie", "western", "crime"]
   },
   {
     "title": "Zorro - Saison 1",
@@ -1199,7 +1314,8 @@
       "https://uqload.net/embed-vlvgj5lofxm5.html",
       "https://uqload.net/embed-jxp6nn69xtjf.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["aventure", "action", "drame", "comedie", "western", "crime"]
   },
   {
     "title": "Les SEGPA",
@@ -1208,7 +1324,8 @@
     "links": [
       "https://uqload.net/embed-31vq4j4rb3wd.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comedie"]
   },
   {
     "title": "Les SEGPA au ski",
@@ -1217,7 +1334,8 @@
     "links": [
       "https://uqload.net/embed-njxn6f0ivive.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comedie"]
   },
   {
     "title": "La Vie scolaire",
@@ -1226,7 +1344,8 @@
     "links": [
       "https://uqload.net/embed-d4t2ovt5ujbc.html"
     ],
-    "type": "film"
+    "type": "film",
+    "genre": ["comedie", "drame"]
   },
   {
     "title": "La Casa de Papel - Saison 1",
@@ -1247,7 +1366,8 @@
         "https://uqload.net/embed-y3x5jdyl21al.html",
         "https://uqload.net/embed-qstfgdkajguv.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "La Casa de Papel - Saison 2",
@@ -1264,7 +1384,8 @@
         "https://uqload.net/embed-lvkmm5z2wwfl.html",
         "https://uqload.net/embed-kl0ugplx66sg.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "La Casa de Papel - Saison 3",
@@ -1280,7 +1401,8 @@
         "https://uqload.net/embed-5jaz68qvzm0t.html",
         "https://uqload.net/embed-rcqkshw03q1m.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "La Casa de Papel - Saison 4",
@@ -1297,7 +1419,8 @@
         "https://uqload.net/embed-tkyk4dy2wntz.html",
         ""
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
   },
   {
     "title": "La Casa de Papel - Saison 5",
@@ -1315,6 +1438,47 @@
         "https://uqload.net/embed-2z05c2fyuod3.html",
         "https://uqload.net/embed-lk6v1vjk5dak.html"
     ],
-    "type": "series"
+    "type": "series",
+    "genre": ["crime", "drame"]
+  },
+  {
+    "title": "Zootopie",
+    "description": "Avec ses quartiers comme la très chic Place du Sahara ou le glacial Toundraville, la métropole Zootopie, où ne vivent que des mammifères, est un melting pot où toutes les espèces cohabitent. Qu’on soit un énorme éléphant ou une minuscule musaraigne, tout le monde y a sa place. Mais quand l’optimiste agent Judy Hopps arrive en ville, elle découvre qu’être le premier lapin dans la police, au milieu d'animaux costauds, n’est pas si simple. Pour faire ses preuves, elle décide de résoudre une enquête, même si pour cela, elle doit faire équipe avec Nick Wilde, un renard beau parleur et roi de l’arnaque. Certaines séquences ou certains motifs lumineux clignotants sont susceptibles d'affecter les téléspectateurs photosensibles.",
+    "image": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+    "links": [
+      "https://uqload.net/embed-zml4060d6wiv.html"
+    ],
+    "type": "film",
+    "genre": ["aventure", "animation", "famille", "comedie"]
+  },
+  {
+    "title": "Le Roi Lion - 1994",
+    "description": "Sur les Hautes terres d’Afrique règne un lion tout-puissant, le roi Mufasa, que tous les hôtes de la jungle respectent et admirent pour sa sagesse et sa générosité. Son jeune fils Simba sait qu’un jour il lui succèdera, conformément aux lois universelles du cycle de la vie, mais il est loin de deviner les épreuves et les sacrifices que lui imposera l’exercice du pouvoir. Espiègle, naïf et turbulent, le lionceau passe le plus clair de son temps à jouer avec sa petite copine Nala et à taquiner Zazu, son digne précepteur. Son futur royaume lui apparaît en songe comme un lieu enchanté où il fera bon vivre, s’amuser et donner des ordres. Cependant, l’univers de Simba n’est pas aussi sûr qu’il le croie. Scar, le frère de Mufasa, aspire en effet depuis toujours au trône. Maladivement jaloux de son aîné, il intrigue pour l’éliminer en même temps que son successeur. Misant sur la curiosité enfantine et le tempérament aventureux de Simba, il révèle à celui-ci l’existence d’un mystérieux et dangereux cimetière d’éléphants. Simba, oubliant les avertissements répétés de son père, s’y rend aussitôt en secret avec Nala et se fait attaquer par 3 hyènes féroces. Par chance, Mufasa arrive à temps pour sauver l’imprudent lionceau et sa petite compagne. Mais Scar ne renonce pas à ses sinistres projets. Aidé des 3 hyènes, il attire Simba dans un ravin et lance à sa poursuite un troupeau de gnous. N’écoutant que son courage, Mufasa sauve à nouveau son fils et tente de se mettre à l’abri en gravissant la falaise. Repoussé par son frère félon, il périt sous les sabots des gnous affolés. Scar blâme alors l’innocent Simba pour la mort du Roi et le persuade de quitter pour toujours les Hautes terres. Simba se retrouve pour la première fois seul et démuni face à un monde hostile. C’est alors que le destin place sur sa route un curieux tandem d’amis...",
+    "image": "https://frenchstream.top/original-5d024e9cbd5645981b82084161e78792.jpg",
+    "links": [
+      "https://uqload.net/embed-l7chujysmo2d.html"
+    ],
+    "type": "film",
+    "genre": ["aventure", "animation", "famille", "comedie", "action"]
+  },
+  {
+    "title": "Le Roi Lion 2: l'Honneur de la Tribu",
+    "description": "Kiara, fille de Simba et lionçonne au caractère affirmé, aspire partir à l'aventure et contourne la surveillance de son père. Timon et Pumbaa sont de bien impuissants baby-sitters, surtout quand elle rencontre un intrigant rival, Kovu, l'héritier de Scar. En cherchant leur place dans le Grand Cercle de la Vie, les deux lionceaux découvrent que l'unité vaut mieux que l'adversité.",
+    "image": "https://image.tmdb.org/t/p/w500/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg",
+    "links": [
+      "https://uqload.net/embed-rsf9909e4a4v.html"
+    ],
+    "type": "film",
+    "genre": ["aventure", "animation", "famille", "comedie", "action"]
+  },
+  {
+    "title": "Le Roi Lion",
+    "description": "Au fond de la savane africaine, tous les animaux célèbrent la naissance de Simba, leur futur roi. Les mois passent. Simba idolâtre son père, le roi Mufasa, qui prend à cœur de lui faire comprendre les enjeux de sa royale destinée. Mais tout le monde ne semble pas de cet avis. Scar, le frère de Mufasa, l'ancien héritier du trône, a ses propres plans. La bataille pour la prise de contrôle de la Terre des Lions est ravagée par la trahison, la tragédie et le drame, ce qui finit par entraîner l'exil de Simba. Avec l'aide de deux nouveaux amis, Timon et Pumbaa, le jeune lion va devoir trouver comment grandir et reprendre ce qui lui revient de droit.",
+    "image": "https://image.tmdb.org/t/p/w500/7QqLsDKe3myax9mfQf5EvJ2qk6u.jpg",
+    "links": [
+      "https://uqload.net/embed-dfnxsjza6glv.html"
+    ],
+    "type": "film",
+    "genre": ["aventure", "animation", "famille", "comedie", "action"]
   }
 ]
