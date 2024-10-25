@@ -1630,5 +1630,60 @@
     ],
     "type": "film",
     "genre": ["horreur", "mystere"]
+  },
+  {
+    "title": "Un p'tit truc en plus",
+    "year": "2024",
+    "description": "Pour échapper à la police, un père et son fils sont contraints de trouver refuge dans une colonie de vacances pour jeunes adultes en situation de handicap mental, endossant le rôle d’un éducateur et d’un pensionnaire. Le début des emmerdes et d’une formidable expérience humaine qui va les changer à jamais.",
+    "image": "https://image.tmdb.org/t/p/w500/uIlJ1wOlEt5K3NowJQDG4qscQAC.jpg",
+    "links": [
+      "https://uqload.net/embed-e240107yrt5m.html"
+    ],
+    "type": "film",
+    "genre": ["comédie"]
+  },
+  {
+    "title": "Kung Fu Panda",
+    "year": "2008",
+    "description": "Passionné, costaud et quelque peu maladroit, Po est sans conteste le plus grand fan de kung fu. Serveur dans le restaurant de nouilles de son père, son habileté reste encore à prouver. Elu pour accomplir une ancienne prophétie, Po rejoint le monde du kung fu afin d'apprendre les arts martiaux auprès de ses idoles, les légendaires Cinq Cyclones : Tigresse, Grue, Mante, Vipère et Singe, sous les ordres de leur professeur et entraîneur, Maître Shifu. Mais Taï Lung, le léopard des neiges fourbe et animé d'un désir de vengeance, approche à grands pas, et c'est Po qui sera chargé de défendre la vallée face à cette menace grandissante.",
+    "image": "https://frenchstream.top/original-0ebe86e195ef50526c98f59acb95d8d4.jpg",
+    "links": [
+      "https://uqload.net/embed-hrq6iv33lq6x.html"
+    ],
+    "type": "film",
+    "genre": ["animation"]
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "year": "2011",
+    "description": "Le rêve de Po s’est réalisé. Il est devenu le Guerrier Dragon, qui protège la Vallée de la Paix avec ses amis les Cinq Cyclones : Tigresse, Grue, Mante, Vipère et Singe. Mais cette vie topissime est menacée par un nouvel ennemi, décidé à conquérir la Chine et anéantir le kung‐fu à l’aide d’une arme secrète et indestructible. Comment Po pourra‐t‐il triompher d’une arme plus forte que le kung‐fu ? Il devra se tourner vers son passé et découvrir le secret de ses mystérieuses origines. Alors seulement, il pourra libérer la force nécessaire pour vaincre.",
+    "image": "https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+    "links": [
+      "https://uqload.net/embed-v26fcdhp45d1.html"
+    ],
+    "type": "film",
+    "genre": ["animation", "famille", "comedie"]
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "year": "2016",
+    "description": "Po avait toujours cru son père panda disparu, mais le voilà qui réapparaît ! Enfin réunis, père et fils vont voyager jusqu’au paradis secret du peuple panda. Ils y feront la connaissance de certains de leurs semblables, tous plus déjantés les uns que les autres. Mais lorsque le maléfique Kaï décide de s’attaquer aux plus grands maîtres de kung‐fu à travers toute la Chine, Po va devoir réussir l’impossible : transformer tout un village de pandas maladroits et rigolards en experts des arts martiaux, les redoutables Kung‐Fu Pandas !",
+    "image": "https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+    "links": [
+      "https://uqload.net/embed-71q2xk57qsg0.html"
+    ],
+    "type": "film",
+    "genre": ["animation", "aventure", "famille", "action", "comedie"]
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "year": "2024",
+    "description": "Suivez Po dans ses aventures dans la Chine ancienne, où son amour du kung-fu n'a d'égal que son appétit insatiable.",
+    "image": "https://image.tmdb.org/t/p/w500/wkfG7DaExmcVsGLR4kLouMwxeT5.jpg",
+    "links": [
+      "https://uqload.net/embed-r057lbbviti9.html"
+    ],
+    "type": "film",
+    "genre": ["animation", "aventure", "famille", "action", "comédie", "fantastique"]
   }
 ]
