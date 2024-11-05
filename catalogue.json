@@ -1707,5 +1707,27 @@
     ],
     "type": "film",
     "genre": ["horreur"]
+  },
+  {
+    "title": "Sonic 2 le film",
+    "year":"2022",
+    "description": "Bien installé dans la petite ville de Green Hills, Sonic veut maintenant prouver qu’il a l’étoffe d' un véritable héros. Un défi de taille se présente à lui quand le Dr Robotnik refait son apparition. Accompagné de son nouveau complice Knuckles, ils sont en quête d’une émeraude dont le pouvoir permettrait de détruire l’humanité toute entière. Pour s’assurer que l’émeraude ne tombe entre de mauvaises mains, Sonic fait équipe avec Tails. Commence alors un voyage à travers le monde, plein de péripéties.",
+    "image": "https://wiflix-hd.net/checkimg.php?urli=stream-vf-751d-0c8c-e2de-4b93.jpg",
+    "links": [
+      "https://uqload.net/embed-rlpgkc48zvjw.html"
+    ],
+    "type": "film",
+    "genre": ["animation", "aventure", "famille"]
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "year": "2020",
+    "description": "L'histoire du hérisson bleu le plus rapide du monde qui arrive sur Terre, sa nouvelle maison. Sonic et son nouveau meilleur ami Tom font équipe pour sauver la planète du diabolique Dr. Robotnik, bien déterminé à régner sur le monde entier.",
+    "image": "https://wiflix-hd.net/checkimg.php?urli=stream-vf-41a0-996e-8d8a-4245.jpg",
+    "links": [
+      "https://uqload.net/embed-n4qe6cvcs1fe.html"
+    ],
+    "type": "film",
+    "genre": ["animation", "aventure", "famille"]
   }
 ]
