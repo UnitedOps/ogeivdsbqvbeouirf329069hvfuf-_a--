@@ -2042,5 +2042,38 @@
     ],
     "type": "series",
     "genre": ["thriller", "drame", "aventure", "action"]
+  },
+  {
+    "title": "Venom",
+    "year": "2018",
+    "description": "Le monde a assez de super‐héros. Possédé par un symbiote qui agit de manière autonome, le journaliste Eddie Brock devient le protecteur létal Venom.",
+    "image": "https://wiflix-hd.me/checkimg.php?urli=stream-vf-d5d4-2f83-a62a-4e90.jpg",
+    "links": [
+      "https://uqload.net/embed-8heey6s5n86h.html"
+    ],
+    "type": "film",
+    "genre": ["action", "science-fiction"]
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "year": "2021",
+    "description": "Le quotidien d'Eddie Brock est loin d'être de tout repos. Depuis que le symbiote Venom partage son corps, il doit refréner les pulsions meurtrières de son visiteur extraterrestre. Sur les conseils d'un policier, le journaliste est appelé à recueillir les confidences de Cletus Kasady, un tueur en série qui rêve de s'échapper de prison avant d'être condamné à mort. Son souhait pourrait se réaliser lorsqu'il entre en contact avec le sang de Venom, lui conférant des pouvoirs extraordinaires. Seul Eddie pourra l'arrêter... mais pour y arriver, il doit faire la paix avec Venom.",
+    "image": "https://wiflix-hd.me/checkimg.php?urli=stream-vf-437d-1894-77f2-430b.jpg",
+    "links": [
+      "https://uqload.net/embed-m1vrj94yd2wc.html"
+    ],
+    "type": "film",
+    "genre": ["action", "fantastique"]
+  },
+  {
+    "title": "Venom: The Last Dance",
+    "year": "2024",
+    "description": "Eddie et Venom sont en cavale. Chacun est traqué par ses semblables et alors que l'étau se resserre, le duo doit prendre une décision dévastatrice qui annonce la conclusion des aventures d'Eddie et de Venom.",
+    "image": "https://wiflix-hd.me/checkimg.php?urli=stream-vf-30c9-fcdf-541f-402b.jpg",
+    "links": [
+      "https://uqload.net/embed-t0tqmas08td0.html"
+    ],
+    "type": "film",
+    "genre": ["action", "fantastique", "comedie"]
   }
 ]
